@@ -9,7 +9,7 @@
 <br>
 
 ### 축하 카드 링크
-https://stove-smooth.github.io
+https://stove-smooth.github.io/birthday-card
 
 <br>
 
